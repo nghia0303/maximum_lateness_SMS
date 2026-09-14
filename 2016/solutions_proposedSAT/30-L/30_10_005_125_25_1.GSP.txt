@@ -1,0 +1,32 @@
+Lmax = 343 (Jobs 19, 30)
+Schedule:
+  Job 1: start = 200, end = 292, due_date = 333, lateness = -41
+  Job 10: start = 292, end = 328, due_date = 290, lateness = 38
+  Job 4: start = 328, end = 370, due_date = 337, lateness = 33
+  Job 3: start = 370, end = 450, due_date = 453, lateness = -3
+  Job 5: start = 485, end = 511, due_date = 566, lateness = -55
+  Job 9: start = 511, end = 571, due_date = 283, lateness = 288
+  Job 2: start = 571, end = 653, due_date = 399, lateness = 254
+  Job 8: start = 670, end = 751, due_date = 549, lateness = 202
+  Job 6: start = 751, end = 798, due_date = 750, lateness = 48
+  Job 18: start = 835, end = 843, due_date = 661, lateness = 182
+  Job 7: start = 844, end = 878, due_date = 780, lateness = 98
+  Job 13: start = 912, end = 1009, due_date = 1051, lateness = -42
+  Job 11: start = 1009, end = 1028, due_date = 1017, lateness = 11
+  Job 26: start = 1028, end = 1111, due_date = 795, lateness = 316
+  Job 25: start = 1111, end = 1174, due_date = 947, lateness = 227
+  Job 15: start = 1174, end = 1218, due_date = 1127, lateness = 91
+  Job 12: start = 1218, end = 1231, due_date = 1097, lateness = 134
+  Job 16: start = 1231, end = 1313, due_date = 978, lateness = 335
+  Job 27: start = 1313, end = 1406, due_date = 1251, lateness = 155
+  Job 20: start = 1406, end = 1423, due_date = 1126, lateness = 297
+  Job 17: start = 1423, end = 1439, due_date = 1235, lateness = 204
+  Job 24: start = 1439, end = 1501, due_date = 1359, lateness = 142
+  Job 14: start = 1501, end = 1502, due_date = 1270, lateness = 232
+  Job 29: start = 1502, end = 1536, due_date = 1318, lateness = 218
+  Job 23: start = 1536, end = 1624, due_date = 1284, lateness = 340
+  Job 22: start = 1624, end = 1683, due_date = 1615, lateness = 68
+  Job 21: start = 1683, end = 1702, due_date = 1422, lateness = 280
+  Job 28: start = 1702, end = 1768, due_date = 1453, lateness = 315
+  Job 30: start = 1768, end = 1803, due_date = 1460, lateness = 343
+  Job 19: start = 1824, end = 1874, due_date = 1531, lateness = 343

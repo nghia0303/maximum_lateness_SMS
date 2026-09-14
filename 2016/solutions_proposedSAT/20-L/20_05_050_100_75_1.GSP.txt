@@ -1,0 +1,22 @@
+Lmax = 803 (Jobs 17, 19)
+Schedule:
+  Job 2: start = 20, end = 69, due_date = 360, lateness = -291
+  Job 1: start = 69, end = 116, due_date = 185, lateness = -69
+  Job 3: start = 116, end = 195, due_date = 123, lateness = 72
+  Job 5: start = 195, end = 292, due_date = 543, lateness = -251
+  Job 6: start = 292, end = 306, due_date = 640, lateness = -334
+  Job 7: start = 306, end = 395, due_date = 418, lateness = -23
+  Job 4: start = 395, end = 419, due_date = 293, lateness = 126
+  Job 8: start = 419, end = 512, due_date = 536, lateness = -24
+  Job 9: start = 512, end = 535, due_date = 718, lateness = -183
+  Job 10: start = 535, end = 627, due_date = 311, lateness = 316
+  Job 15: start = 627, end = 695, due_date = 862, lateness = -167
+  Job 11: start = 695, end = 716, due_date = 246, lateness = 470
+  Job 12: start = 716, end = 754, due_date = 1160, lateness = -406
+  Job 14: start = 754, end = 849, due_date = 694, lateness = 155
+  Job 13: start = 849, end = 941, due_date = 711, lateness = 230
+  Job 19: start = 941, end = 1022, due_date = 219, lateness = 803
+  Job 16: start = 1028, end = 1121, due_date = 926, lateness = 195
+  Job 17: start = 1121, end = 1143, due_date = 340, lateness = 803
+  Job 18: start = 1181, end = 1209, due_date = 714, lateness = 495
+  Job 20: start = 1252, end = 1287, due_date = 661, lateness = 626

@@ -1,0 +1,32 @@
+Lmax = 635 (Jobs 18, 26, 29)
+Schedule:
+  Job 1: start = 184, end = 230, due_date = 115, lateness = 115
+  Job 2: start = 235, end = 256, due_date = 175, lateness = 81
+  Job 3: start = 256, end = 352, due_date = 204, lateness = 148
+  Job 5: start = 355, end = 428, due_date = 225, lateness = 203
+  Job 4: start = 436, end = 486, due_date = 296, lateness = 190
+  Job 7: start = 486, end = 578, due_date = 602, lateness = -24
+  Job 8: start = 578, end = 585, due_date = 566, lateness = 19
+  Job 11: start = 585, end = 649, due_date = 365, lateness = 284
+  Job 6: start = 650, end = 693, due_date = 511, lateness = 182
+  Job 9: start = 693, end = 765, due_date = 733, lateness = 32
+  Job 13: start = 765, end = 777, due_date = 662, lateness = 115
+  Job 14: start = 787, end = 791, due_date = 787, lateness = 4
+  Job 12: start = 791, end = 808, due_date = 724, lateness = 84
+  Job 10: start = 817, end = 825, due_date = 726, lateness = 99
+  Job 18: start = 826, end = 922, due_date = 287, lateness = 635
+  Job 16: start = 934, end = 970, due_date = 679, lateness = 291
+  Job 15: start = 970, end = 1012, due_date = 589, lateness = 423
+  Job 21: start = 1012, end = 1102, due_date = 986, lateness = 116
+  Job 19: start = 1102, end = 1114, due_date = 1048, lateness = 66
+  Job 17: start = 1119, end = 1134, due_date = 996, lateness = 138
+  Job 20: start = 1134, end = 1185, due_date = 1228, lateness = -43
+  Job 23: start = 1185, end = 1258, due_date = 995, lateness = 263
+  Job 22: start = 1259, end = 1332, due_date = 1376, lateness = -44
+  Job 26: start = 1332, end = 1423, due_date = 788, lateness = 635
+  Job 25: start = 1439, end = 1482, due_date = 975, lateness = 507
+  Job 27: start = 1482, end = 1529, due_date = 925, lateness = 604
+  Job 24: start = 1529, end = 1625, due_date = 1417, lateness = 208
+  Job 30: start = 1633, end = 1655, due_date = 1290, lateness = 365
+  Job 28: start = 1841, end = 1878, due_date = 1254, lateness = 624
+  Job 29: start = 1879, end = 1885, due_date = 1250, lateness = 635

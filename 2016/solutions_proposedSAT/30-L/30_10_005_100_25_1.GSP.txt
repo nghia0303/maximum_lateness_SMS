@@ -1,0 +1,32 @@
+Lmax = 239 (Jobs 7, 27)
+Schedule:
+  Job 1: start = 39, end = 91, due_date = 143, lateness = -52
+  Job 2: start = 92, end = 176, due_date = 175, lateness = 1
+  Job 6: start = 176, end = 245, due_date = 171, lateness = 74
+  Job 5: start = 245, end = 270, due_date = 312, lateness = -42
+  Job 3: start = 270, end = 353, due_date = 260, lateness = 93
+  Job 4: start = 353, end = 400, due_date = 269, lateness = 131
+  Job 7: start = 444, end = 514, due_date = 275, lateness = 239
+  Job 8: start = 559, end = 629, due_date = 629, lateness = 0
+  Job 10: start = 629, end = 695, due_date = 721, lateness = -26
+  Job 11: start = 695, end = 733, due_date = 723, lateness = 10
+  Job 9: start = 733, end = 758, due_date = 608, lateness = 150
+  Job 12: start = 759, end = 838, due_date = 774, lateness = 64
+  Job 13: start = 838, end = 878, due_date = 907, lateness = -29
+  Job 14: start = 878, end = 922, due_date = 899, lateness = 23
+  Job 16: start = 922, end = 943, due_date = 992, lateness = -49
+  Job 17: start = 943, end = 1030, due_date = 1007, lateness = 23
+  Job 18: start = 1030, end = 1103, due_date = 1139, lateness = -36
+  Job 15: start = 1103, end = 1175, due_date = 1013, lateness = 162
+  Job 19: start = 1175, end = 1210, due_date = 1058, lateness = 152
+  Job 20: start = 1318, end = 1340, due_date = 1356, lateness = -16
+  Job 21: start = 1434, end = 1515, due_date = 1471, lateness = 44
+  Job 22: start = 1548, end = 1559, due_date = 1629, lateness = -70
+  Job 23: start = 1591, end = 1683, due_date = 1713, lateness = -30
+  Job 25: start = 1683, end = 1768, due_date = 1799, lateness = -31
+  Job 29: start = 1768, end = 1787, due_date = 1688, lateness = 99
+  Job 28: start = 1787, end = 1824, due_date = 1644, lateness = 180
+  Job 30: start = 1824, end = 1837, due_date = 1721, lateness = 116
+  Job 24: start = 1837, end = 1861, due_date = 1660, lateness = 201
+  Job 26: start = 1861, end = 1960, due_date = 1795, lateness = 165
+  Job 27: start = 1960, end = 2055, due_date = 1816, lateness = 239

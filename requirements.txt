@@ -1,0 +1,12 @@
+# Requires Python 3.12.10
+numpy==2.4.3
+pandas==3.0.1
+python-dateutil==2.9.0.post0
+python-sat==1.9.dev7
+six==1.17.0
+tzdata==2025.3
+gurobipy==13.0.1
+openpyxl==3.1.5
+ortools==9.14.6206
+docplex==2.32.264
+cplex==22.2.0.1

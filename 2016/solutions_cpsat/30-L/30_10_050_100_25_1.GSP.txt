@@ -1,0 +1,33 @@
+Lmax = 699 (Job 22)
+Solve Time = 0.01s
+Schedule:
+  Job 5: start = 380, end = 427, due_date = 471, lateness = -44
+  Job 9: start = 441, end = 529, due_date = 1201, lateness = -672
+  Job 6: start = 630, end = 708, due_date = 1514, lateness = -806
+  Job 1: start = 708, end = 761, due_date = 1059, lateness = -298
+  Job 3: start = 761, end = 842, due_date = 1005, lateness = -163
+  Job 2: start = 842, end = 888, due_date = 1310, lateness = -422
+  Job 8: start = 888, end = 930, due_date = 1215, lateness = -285
+  Job 4: start = 930, end = 963, due_date = 1150, lateness = -187
+  Job 15: start = 963, end = 1032, due_date = 1373, lateness = -341
+  Job 17: start = 1032, end = 1108, due_date = 1637, lateness = -529
+  Job 7: start = 1280, end = 1360, due_date = 1549, lateness = -189
+  Job 12: start = 1360, end = 1433, due_date = 1719, lateness = -286
+  Job 13: start = 1433, end = 1510, due_date = 1551, lateness = -41
+  Job 10: start = 1510, end = 1595, due_date = 1659, lateness = -64
+  Job 14: start = 1612, end = 1650, due_date = 2033, lateness = -383
+  Job 23: start = 1650, end = 1704, due_date = 2139, lateness = -435
+  Job 21: start = 1704, end = 1741, due_date = 1750, lateness = -9
+  Job 11: start = 1747, end = 1792, due_date = 1825, lateness = -33
+  Job 22: start = 1792, end = 1850, due_date = 1151, lateness = 699
+  Job 18: start = 1850, end = 1906, due_date = 1996, lateness = -90
+  Job 16: start = 1906, end = 1984, due_date = 1738, lateness = 246
+  Job 19: start = 1984, end = 2050, due_date = 2382, lateness = -332
+  Job 25: start = 2050, end = 2133, due_date = 2272, lateness = -139
+  Job 24: start = 2133, end = 2227, due_date = 1574, lateness = 653
+  Job 26: start = 2227, end = 2243, due_date = 2600, lateness = -357
+  Job 28: start = 2243, end = 2296, due_date = 2374, lateness = -78
+  Job 27: start = 2296, end = 2387, due_date = 2053, lateness = 334
+  Job 29: start = 2387, end = 2415, due_date = 2367, lateness = 48
+  Job 30: start = 2415, end = 2512, due_date = 2179, lateness = 333
+  Job 20: start = 2512, end = 2547, due_date = 2107, lateness = 440

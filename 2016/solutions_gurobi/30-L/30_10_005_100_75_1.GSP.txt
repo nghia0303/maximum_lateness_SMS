@@ -1,0 +1,33 @@
+Lmax = 635 (Jobs 26, 30)
+Solve Time = 0.80s
+Schedule:
+  Job 2: start = 86, end = 107, due_date = 175, lateness = -68
+  Job 1: start = 122, end = 168, due_date = 115, lateness = 53
+  Job 5: start = 195, end = 268, due_date = 225, lateness = 43
+  Job 4: start = 268, end = 318, due_date = 296, lateness = 22
+  Job 3: start = 344, end = 440, due_date = 204, lateness = 236
+  Job 6: start = 445, end = 488, due_date = 511, lateness = -23
+  Job 7: start = 494, end = 586, due_date = 602, lateness = -16
+  Job 8: start = 589, end = 596, due_date = 566, lateness = 30
+  Job 11: start = 599, end = 663, due_date = 365, lateness = 298
+  Job 10: start = 673, end = 681, due_date = 726, lateness = -45
+  Job 12: start = 688, end = 705, due_date = 724, lateness = -19
+  Job 9: start = 707, end = 779, due_date = 733, lateness = 46
+  Job 18: start = 801, end = 897, due_date = 287, lateness = 610
+  Job 16: start = 912, end = 948, due_date = 679, lateness = 269
+  Job 14: start = 960, end = 964, due_date = 787, lateness = 177
+  Job 13: start = 975, end = 987, due_date = 662, lateness = 325
+  Job 17: start = 995, end = 1010, due_date = 996, lateness = 14
+  Job 19: start = 1011, end = 1023, due_date = 1048, lateness = -25
+  Job 15: start = 1030, end = 1072, due_date = 589, lateness = 483
+  Job 21: start = 1074, end = 1164, due_date = 986, lateness = 178
+  Job 20: start = 1165, end = 1216, due_date = 1228, lateness = -12
+  Job 25: start = 1216, end = 1259, due_date = 975, lateness = 284
+  Job 22: start = 1259, end = 1332, due_date = 1376, lateness = -44
+  Job 26: start = 1332, end = 1423, due_date = 788, lateness = 635
+  Job 23: start = 1423, end = 1496, due_date = 995, lateness = 501
+  Job 27: start = 1496, end = 1543, due_date = 925, lateness = 618
+  Job 24: start = 1543, end = 1639, due_date = 1417, lateness = 222
+  Job 28: start = 1687, end = 1724, due_date = 1254, lateness = 470
+  Job 29: start = 1759, end = 1765, due_date = 1250, lateness = 515
+  Job 30: start = 1903, end = 1925, due_date = 1290, lateness = 635

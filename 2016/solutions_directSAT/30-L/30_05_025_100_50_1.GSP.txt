@@ -1,0 +1,33 @@
+TIMEOUT
+Lmax = 719 (Job 24)
+Schedule:
+  Job 3: start = 14, end = 96, due_date = 159, lateness = -63
+  Job 1: start = 96, end = 144, due_date = 343, lateness = -199
+  Job 2: start = 144, end = 231, due_date = 243, lateness = -12
+  Job 9: start = 231, end = 280, due_date = 565, lateness = -285
+  Job 4: start = 280, end = 331, due_date = 534, lateness = -203
+  Job 13: start = 331, end = 385, due_date = 446, lateness = -61
+  Job 5: start = 385, end = 431, due_date = 555, lateness = -124
+  Job 8: start = 431, end = 505, due_date = 464, lateness = 41
+  Job 7: start = 505, end = 545, due_date = 703, lateness = -158
+  Job 10: start = 548, end = 556, due_date = 704, lateness = -148
+  Job 12: start = 557, end = 567, due_date = 868, lateness = -301
+  Job 15: start = 568, end = 572, due_date = 609, lateness = -37
+  Job 18: start = 576, end = 665, due_date = 393, lateness = 272
+  Job 6: start = 666, end = 694, due_date = 512, lateness = 182
+  Job 14: start = 697, end = 718, due_date = 693, lateness = 25
+  Job 16: start = 719, end = 749, due_date = 529, lateness = 220
+  Job 11: start = 752, end = 756, due_date = 675, lateness = 81
+  Job 22: start = 756, end = 807, due_date = 187, lateness = 620
+  Job 17: start = 810, end = 885, due_date = 668, lateness = 217
+  Job 21: start = 886, end = 907, due_date = 505, lateness = 402
+  Job 20: start = 907, end = 995, due_date = 717, lateness = 278
+  Job 19: start = 995, end = 1081, due_date = 560, lateness = 521
+  Job 28: start = 1081, end = 1097, due_date = 439, lateness = 658
+  Job 26: start = 1097, end = 1188, due_date = 514, lateness = 674
+  Job 25: start = 1189, end = 1266, due_date = 558, lateness = 708
+  Job 23: start = 1266, end = 1288, due_date = 646, lateness = 642
+  Job 30: start = 1289, end = 1322, due_date = 659, lateness = 663
+  Job 27: start = 1322, end = 1381, due_date = 693, lateness = 688
+  Job 24: start = 1381, end = 1419, due_date = 700, lateness = 719
+  Job 29: start = 1485, end = 1505, due_date = 968, lateness = 537

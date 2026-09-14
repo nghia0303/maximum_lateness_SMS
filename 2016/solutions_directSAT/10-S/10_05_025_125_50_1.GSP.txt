@@ -1,0 +1,12 @@
+Lmax = 23 (Jobs 5, 6, 10)
+Schedule:
+  Job 1: start = 4, end = 13, due_date = 24, lateness = -11
+  Job 2: start = 13, end = 16, due_date = 14, lateness = 2
+  Job 3: start = 16, end = 23, due_date = 26, lateness = -3
+  Job 4: start = 23, end = 24, due_date = 21, lateness = 3
+  Job 5: start = 24, end = 33, due_date = 10, lateness = 23
+  Job 9: start = 33, end = 34, due_date = 12, lateness = 22
+  Job 8: start = 34, end = 37, due_date = 16, lateness = 21
+  Job 7: start = 37, end = 40, due_date = 22, lateness = 18
+  Job 6: start = 40, end = 47, due_date = 24, lateness = 23
+  Job 10: start = 48, end = 54, due_date = 31, lateness = 23

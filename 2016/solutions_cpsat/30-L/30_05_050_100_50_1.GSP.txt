@@ -1,0 +1,33 @@
+Lmax = 478 (Job 19)
+Solve Time = 0.01s
+Schedule:
+  Job 1: start = 28, end = 50, due_date = 695, lateness = -645
+  Job 5: start = 50, end = 96, due_date = 660, lateness = -564
+  Job 2: start = 96, end = 176, due_date = 763, lateness = -587
+  Job 3: start = 176, end = 254, due_date = 733, lateness = -479
+  Job 4: start = 254, end = 276, due_date = 345, lateness = -69
+  Job 6: start = 276, end = 317, due_date = 731, lateness = -414
+  Job 13: start = 317, end = 349, due_date = 391, lateness = -42
+  Job 8: start = 349, end = 372, due_date = 590, lateness = -218
+  Job 11: start = 372, end = 431, due_date = 472, lateness = -41
+  Job 7: start = 431, end = 437, due_date = 523, lateness = -86
+  Job 10: start = 472, end = 484, due_date = 900, lateness = -416
+  Job 9: start = 484, end = 562, due_date = 579, lateness = -17
+  Job 17: start = 562, end = 623, due_date = 811, lateness = -188
+  Job 14: start = 623, end = 645, due_date = 755, lateness = -110
+  Job 15: start = 645, end = 703, due_date = 715, lateness = -12
+  Job 12: start = 703, end = 718, due_date = 961, lateness = -243
+  Job 16: start = 718, end = 772, due_date = 716, lateness = 56
+  Job 20: start = 772, end = 871, due_date = 998, lateness = -127
+  Job 18: start = 871, end = 950, due_date = 1192, lateness = -242
+  Job 25: start = 950, end = 1037, due_date = 566, lateness = 471
+  Job 19: start = 1037, end = 1071, due_date = 593, lateness = 478
+  Job 21: start = 1071, end = 1086, due_date = 650, lateness = 436
+  Job 22: start = 1086, end = 1148, due_date = 1258, lateness = -110
+  Job 23: start = 1148, end = 1201, due_date = 1121, lateness = 80
+  Job 24: start = 1201, end = 1234, due_date = 857, lateness = 377
+  Job 27: start = 1234, end = 1243, due_date = 852, lateness = 391
+  Job 29: start = 1243, end = 1325, due_date = 1056, lateness = 269
+  Job 26: start = 1325, end = 1417, due_date = 1400, lateness = 17
+  Job 30: start = 1417, end = 1456, due_date = 1303, lateness = 153
+  Job 28: start = 1456, end = 1470, due_date = 1392, lateness = 78

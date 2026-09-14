@@ -1,0 +1,33 @@
+Lmax = 739 (Job 30)
+Solve Time = 157.93s
+Schedule:
+  Job 18: start = 2, end = 76, due_date = 137, lateness = -61
+  Job 4: start = 76, end = 115, due_date = 163, lateness = -48
+  Job 2: start = 115, end = 208, due_date = 165, lateness = 43
+  Job 3: start = 208, end = 233, due_date = 170, lateness = 63
+  Job 5: start = 233, end = 327, due_date = 359, lateness = -32
+  Job 9: start = 327, end = 368, due_date = 308, lateness = 60
+  Job 7: start = 368, end = 465, due_date = 342, lateness = 123
+  Job 1: start = 465, end = 470, due_date = 92, lateness = 378
+  Job 10: start = 470, end = 515, due_date = 297, lateness = 218
+  Job 6: start = 515, end = 525, due_date = 164, lateness = 361
+  Job 12: start = 525, end = 592, due_date = 620, lateness = -28
+  Job 11: start = 592, end = 676, due_date = 156, lateness = 520
+  Job 8: start = 676, end = 701, due_date = 403, lateness = 298
+  Job 13: start = 701, end = 795, due_date = 813, lateness = -18
+  Job 22: start = 795, end = 809, due_date = 816, lateness = -7
+  Job 14: start = 809, end = 895, due_date = 687, lateness = 208
+  Job 27: start = 895, end = 913, due_date = 726, lateness = 187
+  Job 16: start = 913, end = 984, due_date = 592, lateness = 392
+  Job 19: start = 984, end = 1010, due_date = 279, lateness = 731
+  Job 15: start = 1010, end = 1043, due_date = 815, lateness = 228
+  Job 21: start = 1043, end = 1047, due_date = 617, lateness = 430
+  Job 29: start = 1047, end = 1130, due_date = 774, lateness = 356
+  Job 20: start = 1130, end = 1218, due_date = 534, lateness = 684
+  Job 17: start = 1218, end = 1287, due_date = 603, lateness = 684
+  Job 23: start = 1287, end = 1357, due_date = 815, lateness = 542
+  Job 26: start = 1357, end = 1410, due_date = 741, lateness = 669
+  Job 28: start = 1410, end = 1485, due_date = 776, lateness = 709
+  Job 25: start = 1485, end = 1546, due_date = 867, lateness = 679
+  Job 24: start = 1546, end = 1579, due_date = 871, lateness = 708
+  Job 30: start = 1579, end = 1614, due_date = 875, lateness = 739

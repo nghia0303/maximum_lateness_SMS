@@ -1,0 +1,23 @@
+Lmax = 379 (Job 20)
+Solve Time = 0.88s
+Schedule:
+  Job 6: start = 116, end = 121, due_date = 451, lateness = -330
+  Job 1: start = 169, end = 180, due_date = 327, lateness = -147
+  Job 2: start = 180, end = 280, due_date = 280, lateness = 0
+  Job 4: start = 280, end = 314, due_date = 178, lateness = 136
+  Job 3: start = 314, end = 351, due_date = 384, lateness = -33
+  Job 5: start = 386, end = 453, due_date = 577, lateness = -124
+  Job 13: start = 453, end = 515, due_date = 522, lateness = -7
+  Job 10: start = 521, end = 527, due_date = 543, lateness = -16
+  Job 7: start = 527, end = 597, due_date = 864, lateness = -267
+  Job 12: start = 597, end = 624, due_date = 730, lateness = -106
+  Job 8: start = 624, end = 634, due_date = 592, lateness = 42
+  Job 9: start = 634, end = 723, due_date = 814, lateness = -91
+  Job 20: start = 723, end = 762, due_date = 383, lateness = 379
+  Job 17: start = 768, end = 797, due_date = 419, lateness = 378
+  Job 18: start = 799, end = 800, due_date = 992, lateness = -192
+  Job 11: start = 803, end = 819, due_date = 639, lateness = 180
+  Job 19: start = 819, end = 870, due_date = 878, lateness = -8
+  Job 15: start = 900, end = 917, due_date = 880, lateness = 37
+  Job 14: start = 919, end = 954, due_date = 596, lateness = 358
+  Job 16: start = 962, end = 987, due_date = 1053, lateness = -66

@@ -1,0 +1,33 @@
+Lmax = 1092 (Job 27)
+Solve Time = 1.41s
+Schedule:
+  Job 2: start = 133, end = 181, due_date = 193, lateness = -12
+  Job 1: start = 185, end = 254, due_date = 200, lateness = 54
+  Job 3: start = 255, end = 306, due_date = 352, lateness = -46
+  Job 5: start = 308, end = 359, due_date = 335, lateness = 24
+  Job 4: start = 359, end = 374, due_date = 298, lateness = 76
+  Job 6: start = 375, end = 398, due_date = 345, lateness = 53
+  Job 7: start = 408, end = 470, due_date = 472, lateness = -2
+  Job 9: start = 549, end = 602, due_date = 380, lateness = 222
+  Job 11: start = 604, end = 627, due_date = 236, lateness = 391
+  Job 8: start = 627, end = 723, due_date = 184, lateness = 539
+  Job 10: start = 726, end = 728, due_date = 763, lateness = -35
+  Job 19: start = 761, end = 798, due_date = 400, lateness = 398
+  Job 13: start = 806, end = 839, due_date = 895, lateness = -56
+  Job 12: start = 841, end = 923, due_date = 753, lateness = 170
+  Job 18: start = 934, end = 977, due_date = 269, lateness = 708
+  Job 14: start = 987, end = 1048, due_date = 1093, lateness = -45
+  Job 15: start = 1050, end = 1070, due_date = 817, lateness = 253
+  Job 17: start = 1074, end = 1108, due_date = 1026, lateness = 82
+  Job 16: start = 1115, end = 1150, due_date = 1147, lateness = 3
+  Job 20: start = 1155, end = 1216, due_date = 516, lateness = 700
+  Job 23: start = 1225, end = 1284, due_date = 512, lateness = 772
+  Job 21: start = 1287, end = 1386, due_date = 1370, lateness = 16
+  Job 22: start = 1388, end = 1398, due_date = 1445, lateness = -47
+  Job 25: start = 1412, end = 1450, due_date = 1522, lateness = -72
+  Job 27: start = 1450, end = 1523, due_date = 431, lateness = 1092
+  Job 24: start = 1561, end = 1610, due_date = 683, lateness = 927
+  Job 29: start = 1688, end = 1773, due_date = 925, lateness = 848
+  Job 26: start = 1773, end = 1850, due_date = 866, lateness = 984
+  Job 30: start = 1917, end = 1971, due_date = 984, lateness = 987
+  Job 28: start = 2116, end = 2146, due_date = 1485, lateness = 661

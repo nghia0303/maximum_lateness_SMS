@@ -1,0 +1,13 @@
+Lmax = 263 (Job 7)
+Solve Time = 0.08s
+Schedule:
+  Job 1: start = 21, end = 35, due_date = 38, lateness = -3
+  Job 2: start = 35, end = 101, due_date = 80, lateness = 21
+  Job 3: start = 101, end = 138, due_date = 98, lateness = 40
+  Job 4: start = 138, end = 180, due_date = 172, lateness = 8
+  Job 6: start = 180, end = 272, due_date = 190, lateness = 82
+  Job 5: start = 272, end = 292, due_date = 140, lateness = 152
+  Job 7: start = 292, end = 323, due_date = 60, lateness = 263
+  Job 8: start = 343, end = 370, due_date = 168, lateness = 202
+  Job 9: start = 383, end = 403, due_date = 159, lateness = 244
+  Job 10: start = 437, end = 459, due_date = 200, lateness = 259

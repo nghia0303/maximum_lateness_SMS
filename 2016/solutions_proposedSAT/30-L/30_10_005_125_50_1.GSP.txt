@@ -1,0 +1,32 @@
+Lmax = 918 (Jobs 23, 28)
+Schedule:
+  Job 1: start = 17, end = 81, due_date = 89, lateness = -8
+  Job 4: start = 211, end = 273, due_date = 303, lateness = -30
+  Job 2: start = 273, end = 311, due_date = 327, lateness = -16
+  Job 3: start = 336, end = 427, due_date = 483, lateness = -56
+  Job 5: start = 427, end = 453, due_date = 454, lateness = -1
+  Job 8: start = 483, end = 563, due_date = 619, lateness = -56
+  Job 6: start = 608, end = 644, due_date = 680, lateness = -36
+  Job 9: start = 708, end = 724, due_date = 383, lateness = 341
+  Job 7: start = 726, end = 809, due_date = 816, lateness = -7
+  Job 13: start = 809, end = 883, due_date = 940, lateness = -57
+  Job 12: start = 884, end = 934, due_date = 704, lateness = 230
+  Job 11: start = 934, end = 991, due_date = 1019, lateness = -28
+  Job 10: start = 991, end = 998, due_date = 950, lateness = 48
+  Job 16: start = 998, end = 1009, due_date = 932, lateness = 77
+  Job 22: start = 1011, end = 1057, due_date = 711, lateness = 346
+  Job 20: start = 1057, end = 1142, due_date = 875, lateness = 267
+  Job 15: start = 1147, end = 1152, due_date = 1150, lateness = 2
+  Job 18: start = 1152, end = 1224, due_date = 413, lateness = 811
+  Job 14: start = 1225, end = 1284, due_date = 1253, lateness = 31
+  Job 17: start = 1284, end = 1300, due_date = 677, lateness = 623
+  Job 23: start = 1304, end = 1395, due_date = 477, lateness = 918
+  Job 27: start = 1410, end = 1456, due_date = 609, lateness = 847
+  Job 19: start = 1456, end = 1555, due_date = 1600, lateness = -45
+  Job 28: start = 1555, end = 1642, due_date = 724, lateness = 918
+  Job 30: start = 1707, end = 1765, due_date = 1077, lateness = 688
+  Job 21: start = 1956, end = 2024, due_date = 1248, lateness = 776
+  Job 24: start = 2093, end = 2111, due_date = 1203, lateness = 908
+  Job 26: start = 2111, end = 2193, due_date = 1379, lateness = 814
+  Job 29: start = 2203, end = 2246, due_date = 1515, lateness = 731
+  Job 25: start = 2392, end = 2401, due_date = 1576, lateness = 825

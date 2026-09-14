@@ -1,0 +1,32 @@
+Lmax = 917 (Job 29)
+Schedule:
+  Job 2: start = 100, end = 127, due_date = 231, lateness = -104
+  Job 1: start = 127, end = 189, due_date = 484, lateness = -295
+  Job 3: start = 190, end = 228, due_date = 118, lateness = 110
+  Job 4: start = 229, end = 307, due_date = 332, lateness = -25
+  Job 6: start = 307, end = 399, due_date = 578, lateness = -179
+  Job 5: start = 400, end = 481, due_date = 727, lateness = -246
+  Job 9: start = 497, end = 549, due_date = 739, lateness = -190
+  Job 8: start = 549, end = 606, due_date = 478, lateness = 128
+  Job 7: start = 625, end = 691, due_date = 1026, lateness = -335
+  Job 10: start = 691, end = 732, due_date = 1118, lateness = -386
+  Job 12: start = 732, end = 766, due_date = 740, lateness = 26
+  Job 11: start = 766, end = 804, due_date = 1103, lateness = -299
+  Job 14: start = 804, end = 879, due_date = 1023, lateness = -144
+  Job 13: start = 879, end = 882, due_date = 552, lateness = 330
+  Job 18: start = 882, end = 923, due_date = 879, lateness = 44
+  Job 17: start = 923, end = 966, due_date = 972, lateness = -6
+  Job 15: start = 966, end = 1017, due_date = 590, lateness = 427
+  Job 20: start = 1017, end = 1060, due_date = 985, lateness = 75
+  Job 16: start = 1060, end = 1156, due_date = 1196, lateness = -40
+  Job 21: start = 1156, end = 1190, due_date = 555, lateness = 635
+  Job 19: start = 1190, end = 1289, due_date = 1362, lateness = -73
+  Job 25: start = 1289, end = 1381, due_date = 521, lateness = 860
+  Job 22: start = 1381, end = 1463, due_date = 826, lateness = 637
+  Job 26: start = 1463, end = 1467, due_date = 571, lateness = 896
+  Job 23: start = 1467, end = 1510, due_date = 844, lateness = 666
+  Job 27: start = 1510, end = 1592, due_date = 1066, lateness = 526
+  Job 24: start = 1592, end = 1674, due_date = 968, lateness = 706
+  Job 29: start = 1674, end = 1751, due_date = 834, lateness = 917
+  Job 30: start = 2004, end = 2098, due_date = 1205, lateness = 893
+  Job 28: start = 2098, end = 2179, due_date = 1264, lateness = 915

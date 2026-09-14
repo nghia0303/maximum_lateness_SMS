@@ -1,0 +1,33 @@
+Lmax = 239 (Job 27)
+Solve Time = 3.88s
+Schedule:
+  Job 1: start = 39, end = 91, due_date = 143, lateness = -52
+  Job 2: start = 91, end = 175, due_date = 175, lateness = 0
+  Job 7: start = 180, end = 250, due_date = 275, lateness = -25
+  Job 6: start = 264, end = 333, due_date = 171, lateness = 162
+  Job 5: start = 333, end = 358, due_date = 312, lateness = 46
+  Job 3: start = 358, end = 441, due_date = 260, lateness = 181
+  Job 4: start = 441, end = 488, due_date = 269, lateness = 219
+  Job 8: start = 502, end = 572, due_date = 629, lateness = -57
+  Job 9: start = 578, end = 603, due_date = 608, lateness = -5
+  Job 10: start = 629, end = 695, due_date = 721, lateness = -26
+  Job 12: start = 695, end = 774, due_date = 774, lateness = 0
+  Job 11: start = 785, end = 823, due_date = 723, lateness = 100
+  Job 13: start = 836, end = 876, due_date = 907, lateness = -31
+  Job 14: start = 876, end = 920, due_date = 899, lateness = 21
+  Job 17: start = 923, end = 1010, due_date = 1007, lateness = 3
+  Job 18: start = 1022, end = 1095, due_date = 1139, lateness = -44
+  Job 16: start = 1110, end = 1131, due_date = 992, lateness = 139
+  Job 15: start = 1137, end = 1209, due_date = 1013, lateness = 196
+  Job 19: start = 1225, end = 1260, due_date = 1058, lateness = 202
+  Job 21: start = 1424, end = 1505, due_date = 1471, lateness = 34
+  Job 20: start = 1505, end = 1527, due_date = 1356, lateness = 171
+  Job 22: start = 1548, end = 1559, due_date = 1629, lateness = -70
+  Job 23: start = 1591, end = 1683, due_date = 1713, lateness = -30
+  Job 25: start = 1683, end = 1768, due_date = 1799, lateness = -31
+  Job 29: start = 1768, end = 1787, due_date = 1688, lateness = 99
+  Job 30: start = 1787, end = 1800, due_date = 1721, lateness = 79
+  Job 28: start = 1800, end = 1837, due_date = 1644, lateness = 193
+  Job 24: start = 1837, end = 1861, due_date = 1660, lateness = 201
+  Job 26: start = 1861, end = 1960, due_date = 1795, lateness = 165
+  Job 27: start = 1960, end = 2055, due_date = 1816, lateness = 239

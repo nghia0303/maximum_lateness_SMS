@@ -1,0 +1,43 @@
+Lmax = 1121 (Job 29)
+Solve Time = 0.02s
+Schedule:
+  Job 2: start = 46, end = 73, due_date = 225, lateness = -152
+  Job 1: start = 73, end = 164, due_date = 161, lateness = 3
+  Job 3: start = 164, end = 233, due_date = 359, lateness = -126
+  Job 4: start = 233, end = 310, due_date = 422, lateness = -112
+  Job 5: start = 310, end = 358, due_date = 691, lateness = -333
+  Job 9: start = 358, end = 434, due_date = 659, lateness = -225
+  Job 8: start = 434, end = 517, due_date = 532, lateness = -15
+  Job 7: start = 517, end = 540, due_date = 546, lateness = -6
+  Job 6: start = 540, end = 542, due_date = 646, lateness = -104
+  Job 11: start = 542, end = 622, due_date = 964, lateness = -342
+  Job 13: start = 622, end = 673, due_date = 829, lateness = -156
+  Job 10: start = 673, end = 749, due_date = 699, lateness = 50
+  Job 12: start = 749, end = 765, due_date = 807, lateness = -42
+  Job 33: start = 765, end = 772, due_date = 1001, lateness = -229
+  Job 14: start = 772, end = 852, due_date = 1166, lateness = -314
+  Job 15: start = 882, end = 940, due_date = 1090, lateness = -150
+  Job 16: start = 940, end = 997, due_date = 1418, lateness = -421
+  Job 17: start = 997, end = 1041, due_date = 1276, lateness = -235
+  Job 18: start = 1041, end = 1077, due_date = 1544, lateness = -467
+  Job 19: start = 1077, end = 1168, due_date = 1379, lateness = -211
+  Job 29: start = 1168, end = 1236, due_date = 115, lateness = 1121
+  Job 20: start = 1236, end = 1295, due_date = 1253, lateness = 42
+  Job 24: start = 1295, end = 1346, due_date = 1433, lateness = -87
+  Job 23: start = 1346, end = 1407, due_date = 1360, lateness = 47
+  Job 25: start = 1407, end = 1500, due_date = 1483, lateness = 17
+  Job 22: start = 1500, end = 1515, due_date = 1330, lateness = 185
+  Job 31: start = 1515, end = 1530, due_date = 1712, lateness = -182
+  Job 27: start = 1530, end = 1545, due_date = 1601, lateness = -56
+  Job 21: start = 1545, end = 1546, due_date = 1479, lateness = 67
+  Job 38: start = 1546, end = 1553, due_date = 1975, lateness = -422
+  Job 37: start = 1553, end = 1633, due_date = 1662, lateness = -29
+  Job 28: start = 1633, end = 1705, due_date = 1365, lateness = 340
+  Job 26: start = 1705, end = 1764, due_date = 1495, lateness = 269
+  Job 30: start = 1764, end = 1784, due_date = 1840, lateness = -56
+  Job 32: start = 1784, end = 1794, due_date = 1240, lateness = 554
+  Job 34: start = 1794, end = 1851, due_date = 1443, lateness = 408
+  Job 40: start = 1851, end = 1854, due_date = 2112, lateness = -258
+  Job 35: start = 1854, end = 1880, due_date = 1389, lateness = 491
+  Job 36: start = 1880, end = 1925, due_date = 1790, lateness = 135
+  Job 39: start = 1925, end = 2008, due_date = 1944, lateness = 64

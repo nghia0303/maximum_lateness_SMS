@@ -1,0 +1,33 @@
+Lmax = 1208 (Job 23)
+Solve Time = 0.01s
+Schedule:
+  Job 1: start = 199, end = 279, due_date = 310, lateness = -31
+  Job 2: start = 279, end = 288, due_date = 267, lateness = 21
+  Job 4: start = 363, end = 425, due_date = 495, lateness = -70
+  Job 5: start = 425, end = 471, due_date = 513, lateness = -42
+  Job 3: start = 471, end = 523, due_date = 472, lateness = 51
+  Job 13: start = 546, end = 600, due_date = 606, lateness = -6
+  Job 7: start = 659, end = 729, due_date = 751, lateness = -22
+  Job 6: start = 810, end = 875, due_date = 915, lateness = -40
+  Job 8: start = 911, end = 954, due_date = 1029, lateness = -75
+  Job 9: start = 954, end = 965, due_date = 973, lateness = -8
+  Job 12: start = 1034, end = 1122, due_date = 1172, lateness = -50
+  Job 11: start = 1122, end = 1220, due_date = 917, lateness = 303
+  Job 10: start = 1220, end = 1271, due_date = 1128, lateness = 143
+  Job 18: start = 1271, end = 1358, due_date = 1017, lateness = 341
+  Job 16: start = 1358, end = 1437, due_date = 1488, lateness = -51
+  Job 22: start = 1437, end = 1508, due_date = 1176, lateness = 332
+  Job 15: start = 1542, end = 1583, due_date = 1609, lateness = -26
+  Job 20: start = 1583, end = 1652, due_date = 1003, lateness = 649
+  Job 14: start = 1652, end = 1702, due_date = 1084, lateness = 618
+  Job 17: start = 1702, end = 1801, due_date = 1884, lateness = -83
+  Job 23: start = 1801, end = 1830, due_date = 622, lateness = 1208
+  Job 19: start = 1830, end = 1886, due_date = 1415, lateness = 471
+  Job 21: start = 1886, end = 1944, due_date = 1649, lateness = 295
+  Job 28: start = 1944, end = 2043, due_date = 1176, lateness = 867
+  Job 24: start = 2043, end = 2094, due_date = 1144, lateness = 950
+  Job 29: start = 2094, end = 2147, due_date = 1341, lateness = 806
+  Job 27: start = 2147, end = 2162, due_date = 1346, lateness = 816
+  Job 26: start = 2162, end = 2240, due_date = 1704, lateness = 536
+  Job 25: start = 2240, end = 2319, due_date = 1762, lateness = 557
+  Job 30: start = 2319, end = 2352, due_date = 1706, lateness = 646

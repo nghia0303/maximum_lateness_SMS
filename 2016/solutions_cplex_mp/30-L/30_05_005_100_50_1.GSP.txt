@@ -1,0 +1,33 @@
+Lmax = 722 (Job 23)
+Solve Time = 149.16s
+Schedule:
+  Job 1: start = 10, end = 28, due_date = 34, lateness = -6
+  Job 5: start = 73, end = 111, due_date = 75, lateness = 36
+  Job 6: start = 114, end = 191, due_date = 206, lateness = -15
+  Job 4: start = 191, end = 246, due_date = 267, lateness = -21
+  Job 2: start = 247, end = 299, due_date = 111, lateness = 188
+  Job 3: start = 316, end = 351, due_date = 158, lateness = 193
+  Job 7: start = 356, end = 368, due_date = 357, lateness = 11
+  Job 8: start = 371, end = 417, due_date = 445, lateness = -28
+  Job 9: start = 417, end = 502, due_date = 519, lateness = -17
+  Job 15: start = 502, end = 533, due_date = 423, lateness = 110
+  Job 12: start = 533, end = 563, due_date = 615, lateness = -52
+  Job 11: start = 563, end = 609, due_date = 610, lateness = -1
+  Job 13: start = 609, end = 708, due_date = 592, lateness = 116
+  Job 10: start = 708, end = 729, due_date = 492, lateness = 237
+  Job 16: start = 729, end = 730, due_date = 543, lateness = 187
+  Job 14: start = 730, end = 756, due_date = 369, lateness = 387
+  Job 17: start = 756, end = 762, due_date = 665, lateness = 97
+  Job 27: start = 762, end = 769, due_date = 227, lateness = 542
+  Job 18: start = 769, end = 850, due_date = 610, lateness = 240
+  Job 20: start = 850, end = 882, due_date = 570, lateness = 312
+  Job 25: start = 882, end = 938, due_date = 484, lateness = 454
+  Job 26: start = 938, end = 1035, due_date = 644, lateness = 391
+  Job 22: start = 1035, end = 1117, due_date = 771, lateness = 346
+  Job 30: start = 1117, end = 1151, due_date = 533, lateness = 618
+  Job 19: start = 1151, end = 1215, due_date = 649, lateness = 566
+  Job 21: start = 1215, end = 1243, due_date = 787, lateness = 456
+  Job 24: start = 1243, end = 1294, due_date = 631, lateness = 663
+  Job 23: start = 1294, end = 1380, due_date = 658, lateness = 722
+  Job 28: start = 1380, end = 1469, due_date = 819, lateness = 650
+  Job 29: start = 1469, end = 1524, due_date = 833, lateness = 691

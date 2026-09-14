@@ -1,0 +1,43 @@
+Lmax = 125 (Job 29)
+Solve Time = 0.02s
+Schedule:
+  Job 1: start = 25, end = 29, due_date = 62, lateness = -33
+  Job 2: start = 29, end = 32, due_date = 57, lateness = -25
+  Job 4: start = 32, end = 33, due_date = 37, lateness = -4
+  Job 3: start = 33, end = 37, due_date = 82, lateness = -45
+  Job 6: start = 44, end = 46, due_date = 77, lateness = -31
+  Job 11: start = 46, end = 53, due_date = 74, lateness = -21
+  Job 8: start = 53, end = 56, due_date = 75, lateness = -19
+  Job 5: start = 56, end = 62, due_date = 85, lateness = -23
+  Job 12: start = 62, end = 70, due_date = 89, lateness = -19
+  Job 7: start = 70, end = 74, due_date = 114, lateness = -40
+  Job 23: start = 74, end = 82, due_date = 96, lateness = -14
+  Job 9: start = 83, end = 88, due_date = 112, lateness = -24
+  Job 10: start = 92, end = 99, due_date = 131, lateness = -32
+  Job 18: start = 99, end = 108, due_date = 124, lateness = -16
+  Job 14: start = 117, end = 126, due_date = 151, lateness = -25
+  Job 13: start = 134, end = 139, due_date = 139, lateness = 0
+  Job 15: start = 141, end = 142, due_date = 187, lateness = -45
+  Job 19: start = 147, end = 156, due_date = 174, lateness = -18
+  Job 16: start = 156, end = 165, due_date = 200, lateness = -35
+  Job 17: start = 165, end = 167, due_date = 169, lateness = -2
+  Job 20: start = 167, end = 176, due_date = 127, lateness = 49
+  Job 29: start = 176, end = 181, due_date = 56, lateness = 125
+  Job 21: start = 181, end = 190, due_date = 195, lateness = -5
+  Job 22: start = 190, end = 199, due_date = 114, lateness = 85
+  Job 25: start = 199, end = 205, due_date = 93, lateness = 112
+  Job 26: start = 205, end = 209, due_date = 170, lateness = 39
+  Job 24: start = 209, end = 216, due_date = 192, lateness = 24
+  Job 27: start = 216, end = 223, due_date = 203, lateness = 20
+  Job 28: start = 223, end = 229, due_date = 207, lateness = 22
+  Job 30: start = 229, end = 230, due_date = 219, lateness = 11
+  Job 31: start = 230, end = 236, due_date = 197, lateness = 39
+  Job 33: start = 236, end = 240, due_date = 142, lateness = 98
+  Job 32: start = 240, end = 241, due_date = 128, lateness = 113
+  Job 38: start = 241, end = 242, due_date = 119, lateness = 123
+  Job 35: start = 242, end = 243, due_date = 129, lateness = 114
+  Job 36: start = 243, end = 248, due_date = 140, lateness = 108
+  Job 37: start = 248, end = 250, due_date = 157, lateness = 93
+  Job 34: start = 250, end = 253, due_date = 215, lateness = 38
+  Job 40: start = 253, end = 256, due_date = 211, lateness = 45
+  Job 39: start = 256, end = 258, due_date = 213, lateness = 45

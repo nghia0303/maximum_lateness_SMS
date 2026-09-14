@@ -1,0 +1,12 @@
+Lmax = 214 (Job 10)
+Schedule:
+  Job 1: start = 59, end = 64, due_date = 100, lateness = -36
+  Job 4: start = 68, end = 77, due_date = 78, lateness = -1
+  Job 5: start = 79, end = 94, due_date = 101, lateness = -7
+  Job 2: start = 94, end = 144, due_date = 164, lateness = -20
+  Job 3: start = 144, end = 172, due_date = 58, lateness = 114
+  Job 8: start = 172, end = 217, due_date = 133, lateness = 84
+  Job 9: start = 217, end = 225, due_date = 134, lateness = 91
+  Job 7: start = 225, end = 254, due_date = 189, lateness = 65
+  Job 6: start = 254, end = 354, due_date = 326, lateness = 28
+  Job 10: start = 354, end = 444, due_date = 230, lateness = 214

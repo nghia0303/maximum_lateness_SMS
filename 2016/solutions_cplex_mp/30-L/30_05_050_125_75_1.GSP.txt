@@ -1,0 +1,35 @@
+TIME_LIMIT_FEASIBLE
+Lmax = 693 (Jobs 21, 29)
+MIP Gap = 10.97%
+Solve Time = 300.03s
+Schedule:
+  Job 1: start = 21, end = 112, due_date = 125, lateness = -13
+  Job 5: start = 112, end = 157, due_date = 186, lateness = -29
+  Job 6: start = 157, end = 240, due_date = 626, lateness = -386
+  Job 2: start = 240, end = 278, due_date = 478, lateness = -200
+  Job 4: start = 278, end = 322, due_date = 253, lateness = 69
+  Job 3: start = 322, end = 347, due_date = 285, lateness = 62
+  Job 12: start = 347, end = 373, due_date = 534, lateness = -161
+  Job 8: start = 374, end = 390, due_date = 194, lateness = 196
+  Job 7: start = 395, end = 468, due_date = 887, lateness = -419
+  Job 14: start = 469, end = 499, due_date = 594, lateness = -95
+  Job 10: start = 500, end = 529, due_date = 721, lateness = -192
+  Job 11: start = 529, end = 585, due_date = 553, lateness = 32
+  Job 9: start = 585, end = 677, due_date = 341, lateness = 336
+  Job 13: start = 677, end = 701, due_date = 725, lateness = -24
+  Job 16: start = 706, end = 729, due_date = 713, lateness = 16
+  Job 15: start = 729, end = 792, due_date = 613, lateness = 179
+  Job 18: start = 792, end = 809, due_date = 1098, lateness = -289
+  Job 21: start = 811, end = 818, due_date = 125, lateness = 693
+  Job 17: start = 820, end = 918, due_date = 471, lateness = 447
+  Job 19: start = 961, end = 965, due_date = 681, lateness = 284
+  Job 20: start = 972, end = 1049, due_date = 603, lateness = 446
+  Job 24: start = 1050, end = 1128, due_date = 884, lateness = 244
+  Job 22: start = 1130, end = 1204, due_date = 592, lateness = 612
+  Job 23: start = 1204, end = 1238, due_date = 909, lateness = 329
+  Job 26: start = 1244, end = 1274, due_date = 1037, lateness = 237
+  Job 25: start = 1284, end = 1330, due_date = 868, lateness = 462
+  Job 27: start = 1354, end = 1366, due_date = 1126, lateness = 240
+  Job 28: start = 1392, end = 1444, due_date = 883, lateness = 561
+  Job 29: start = 1448, end = 1482, due_date = 789, lateness = 693
+  Job 30: start = 1695, end = 1739, due_date = 1268, lateness = 471

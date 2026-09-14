@@ -1,0 +1,33 @@
+Lmax = 573 (Job 24)
+Solve Time = 0.02s
+Schedule:
+  Job 1: start = 5, end = 88, due_date = 109, lateness = -21
+  Job 2: start = 88, end = 152, due_date = 159, lateness = -7
+  Job 6: start = 152, end = 209, due_date = 464, lateness = -255
+  Job 4: start = 209, end = 289, due_date = 445, lateness = -156
+  Job 5: start = 289, end = 326, due_date = 515, lateness = -189
+  Job 7: start = 326, end = 381, due_date = 397, lateness = -16
+  Job 3: start = 381, end = 413, due_date = 568, lateness = -155
+  Job 8: start = 413, end = 480, due_date = 655, lateness = -175
+  Job 10: start = 480, end = 481, due_date = 646, lateness = -165
+  Job 17: start = 481, end = 533, due_date = 133, lateness = 400
+  Job 13: start = 533, end = 597, due_date = 830, lateness = -233
+  Job 9: start = 597, end = 680, due_date = 638, lateness = 42
+  Job 18: start = 680, end = 725, due_date = 955, lateness = -230
+  Job 16: start = 725, end = 767, due_date = 856, lateness = -89
+  Job 12: start = 767, end = 830, due_date = 796, lateness = 34
+  Job 14: start = 830, end = 837, due_date = 899, lateness = -62
+  Job 15: start = 837, end = 864, due_date = 755, lateness = 109
+  Job 19: start = 864, end = 940, due_date = 553, lateness = 387
+  Job 11: start = 940, end = 955, due_date = 1024, lateness = -69
+  Job 25: start = 955, end = 982, due_date = 565, lateness = 417
+  Job 21: start = 982, end = 1061, due_date = 859, lateness = 202
+  Job 28: start = 1061, end = 1159, due_date = 622, lateness = 537
+  Job 23: start = 1159, end = 1207, due_date = 651, lateness = 556
+  Job 20: start = 1207, end = 1282, due_date = 742, lateness = 540
+  Job 26: start = 1282, end = 1362, due_date = 803, lateness = 559
+  Job 27: start = 1362, end = 1387, due_date = 853, lateness = 534
+  Job 24: start = 1387, end = 1453, due_date = 880, lateness = 573
+  Job 30: start = 1453, end = 1468, due_date = 904, lateness = 564
+  Job 29: start = 1468, end = 1496, due_date = 1050, lateness = 446
+  Job 22: start = 1496, end = 1564, due_date = 1098, lateness = 466

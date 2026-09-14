@@ -1,0 +1,33 @@
+Lmax = 739 (Job 24)
+Solve Time = 0.02s
+Schedule:
+  Job 1: start = 17, end = 29, due_date = 453, lateness = -424
+  Job 6: start = 29, end = 38, due_date = 534, lateness = -496
+  Job 3: start = 59, end = 113, due_date = 275, lateness = -162
+  Job 2: start = 113, end = 120, due_date = 513, lateness = -393
+  Job 7: start = 135, end = 218, due_date = 289, lateness = -71
+  Job 4: start = 218, end = 292, due_date = 911, lateness = -619
+  Job 5: start = 292, end = 340, due_date = 453, lateness = -113
+  Job 10: start = 340, end = 359, due_date = 129, lateness = 230
+  Job 15: start = 359, end = 360, due_date = 723, lateness = -363
+  Job 9: start = 478, end = 521, due_date = 553, lateness = -32
+  Job 8: start = 521, end = 569, due_date = 638, lateness = -69
+  Job 17: start = 569, end = 653, due_date = 933, lateness = -280
+  Job 12: start = 653, end = 670, due_date = 767, lateness = -97
+  Job 11: start = 670, end = 748, due_date = 1025, lateness = -277
+  Job 13: start = 748, end = 771, due_date = 1097, lateness = -326
+  Job 26: start = 771, end = 815, due_date = 187, lateness = 628
+  Job 16: start = 815, end = 901, due_date = 917, lateness = -16
+  Job 18: start = 901, end = 930, due_date = 747, lateness = 183
+  Job 14: start = 930, end = 1006, due_date = 859, lateness = 147
+  Job 19: start = 1006, end = 1007, due_date = 902, lateness = 105
+  Job 21: start = 1007, end = 1103, due_date = 1274, lateness = -171
+  Job 24: start = 1103, end = 1143, due_date = 404, lateness = 739
+  Job 28: start = 1143, end = 1236, due_date = 553, lateness = 683
+  Job 22: start = 1236, end = 1279, due_date = 824, lateness = 455
+  Job 20: start = 1279, end = 1280, due_date = 657, lateness = 623
+  Job 23: start = 1280, end = 1338, due_date = 674, lateness = 664
+  Job 27: start = 1338, end = 1412, due_date = 721, lateness = 691
+  Job 30: start = 1412, end = 1491, due_date = 1003, lateness = 488
+  Job 25: start = 1491, end = 1520, due_date = 1149, lateness = 371
+  Job 29: start = 1520, end = 1528, due_date = 1202, lateness = 326

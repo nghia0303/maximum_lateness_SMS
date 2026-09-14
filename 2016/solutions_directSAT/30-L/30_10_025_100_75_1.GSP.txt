@@ -1,0 +1,32 @@
+Lmax = 509 (Jobs 13, 23)
+Schedule:
+  Job 2: start = 145, end = 220, due_date = 284, lateness = -64
+  Job 4: start = 222, end = 298, due_date = 463, lateness = -165
+  Job 5: start = 305, end = 311, due_date = 487, lateness = -176
+  Job 3: start = 312, end = 361, due_date = 363, lateness = -2
+  Job 1: start = 363, end = 403, due_date = 379, lateness = 24
+  Job 7: start = 404, end = 453, due_date = 395, lateness = 58
+  Job 6: start = 572, end = 632, due_date = 594, lateness = 38
+  Job 8: start = 788, end = 876, due_date = 1028, lateness = -152
+  Job 9: start = 882, end = 969, due_date = 897, lateness = 72
+  Job 16: start = 996, end = 997, due_date = 1076, lateness = -79
+  Job 11: start = 997, end = 1070, due_date = 1110, lateness = -40
+  Job 13: start = 1070, end = 1096, due_date = 587, lateness = 509
+  Job 10: start = 1096, end = 1176, due_date = 1077, lateness = 99
+  Job 12: start = 1176, end = 1256, due_date = 1501, lateness = -245
+  Job 14: start = 1257, end = 1339, due_date = 1724, lateness = -385
+  Job 15: start = 1339, end = 1385, due_date = 1295, lateness = 90
+  Job 19: start = 1385, end = 1459, due_date = 1596, lateness = -137
+  Job 17: start = 1459, end = 1558, due_date = 1412, lateness = 146
+  Job 24: start = 1559, end = 1615, due_date = 1256, lateness = 359
+  Job 18: start = 1616, end = 1703, due_date = 1346, lateness = 357
+  Job 21: start = 1706, end = 1733, due_date = 1245, lateness = 488
+  Job 22: start = 1734, end = 1808, due_date = 1352, lateness = 456
+  Job 20: start = 1814, end = 1839, due_date = 1699, lateness = 140
+  Job 23: start = 1839, end = 1912, due_date = 1403, lateness = 509
+  Job 25: start = 1949, end = 1953, due_date = 1792, lateness = 161
+  Job 26: start = 1972, end = 2005, due_date = 1956, lateness = 49
+  Job 27: start = 2019, end = 2111, due_date = 1634, lateness = 477
+  Job 28: start = 2127, end = 2176, due_date = 1675, lateness = 501
+  Job 30: start = 2178, end = 2181, due_date = 1675, lateness = 506
+  Job 29: start = 2211, end = 2230, due_date = 1887, lateness = 343

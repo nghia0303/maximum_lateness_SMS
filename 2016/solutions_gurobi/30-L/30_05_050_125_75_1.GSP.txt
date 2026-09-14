@@ -1,0 +1,33 @@
+Lmax = 678 (Job 21)
+Solve Time = 77.15s
+Schedule:
+  Job 1: start = 21, end = 112, due_date = 125, lateness = -13
+  Job 5: start = 112, end = 157, due_date = 186, lateness = -29
+  Job 6: start = 157, end = 240, due_date = 626, lateness = -386
+  Job 2: start = 240, end = 278, due_date = 478, lateness = -200
+  Job 3: start = 278, end = 303, due_date = 285, lateness = 18
+  Job 9: start = 303, end = 395, due_date = 341, lateness = 54
+  Job 4: start = 395, end = 439, due_date = 253, lateness = 186
+  Job 12: start = 439, end = 465, due_date = 534, lateness = -69
+  Job 11: start = 465, end = 521, due_date = 553, lateness = -32
+  Job 8: start = 521, end = 537, due_date = 194, lateness = 343
+  Job 7: start = 537, end = 610, due_date = 887, lateness = -277
+  Job 14: start = 610, end = 640, due_date = 594, lateness = 46
+  Job 13: start = 640, end = 664, due_date = 725, lateness = -61
+  Job 16: start = 664, end = 687, due_date = 713, lateness = -26
+  Job 10: start = 687, end = 716, due_date = 721, lateness = -5
+  Job 18: start = 716, end = 733, due_date = 1098, lateness = -365
+  Job 15: start = 733, end = 796, due_date = 613, lateness = 183
+  Job 21: start = 796, end = 803, due_date = 125, lateness = 678
+  Job 17: start = 803, end = 901, due_date = 471, lateness = 430
+  Job 19: start = 902, end = 906, due_date = 681, lateness = 225
+  Job 20: start = 906, end = 983, due_date = 603, lateness = 380
+  Job 25: start = 985, end = 1031, due_date = 868, lateness = 163
+  Job 22: start = 1033, end = 1107, due_date = 592, lateness = 515
+  Job 24: start = 1119, end = 1197, due_date = 884, lateness = 313
+  Job 23: start = 1211, end = 1245, due_date = 909, lateness = 336
+  Job 27: start = 1256, end = 1268, due_date = 1126, lateness = 142
+  Job 29: start = 1279, end = 1313, due_date = 789, lateness = 524
+  Job 26: start = 1334, end = 1364, due_date = 1037, lateness = 327
+  Job 28: start = 1433, end = 1485, due_date = 883, lateness = 602
+  Job 30: start = 1571, end = 1615, due_date = 1268, lateness = 347

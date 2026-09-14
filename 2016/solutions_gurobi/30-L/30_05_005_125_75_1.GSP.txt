@@ -1,0 +1,33 @@
+Lmax = 1001 (Job 26)
+Solve Time = 51.43s
+Schedule:
+  Job 1: start = 100, end = 122, due_date = 154, lateness = -32
+  Job 2: start = 122, end = 208, due_date = 235, lateness = -27
+  Job 3: start = 208, end = 233, due_date = 207, lateness = 26
+  Job 6: start = 233, end = 252, due_date = 175, lateness = 77
+  Job 4: start = 252, end = 288, due_date = 274, lateness = 14
+  Job 5: start = 288, end = 336, due_date = 269, lateness = 67
+  Job 7: start = 336, end = 430, due_date = 377, lateness = 53
+  Job 11: start = 430, end = 435, due_date = 258, lateness = 177
+  Job 8: start = 435, end = 500, due_date = 440, lateness = 60
+  Job 10: start = 500, end = 563, due_date = 156, lateness = 407
+  Job 9: start = 563, end = 647, due_date = 204, lateness = 443
+  Job 14: start = 647, end = 656, due_date = 622, lateness = 34
+  Job 12: start = 656, end = 686, due_date = 620, lateness = 66
+  Job 13: start = 686, end = 721, due_date = 387, lateness = 334
+  Job 17: start = 721, end = 772, due_date = 638, lateness = 134
+  Job 15: start = 772, end = 866, due_date = 200, lateness = 666
+  Job 16: start = 866, end = 868, due_date = 312, lateness = 556
+  Job 19: start = 868, end = 934, due_date = 642, lateness = 292
+  Job 18: start = 934, end = 1022, due_date = 187, lateness = 835
+  Job 20: start = 1022, end = 1094, due_date = 762, lateness = 332
+  Job 23: start = 1094, end = 1159, due_date = 210, lateness = 949
+  Job 22: start = 1159, end = 1226, due_date = 816, lateness = 410
+  Job 26: start = 1226, end = 1323, due_date = 322, lateness = 1001
+  Job 21: start = 1325, end = 1362, due_date = 684, lateness = 678
+  Job 24: start = 1362, end = 1376, due_date = 560, lateness = 816
+  Job 25: start = 1380, end = 1421, due_date = 489, lateness = 932
+  Job 28: start = 1421, end = 1435, due_date = 546, lateness = 889
+  Job 30: start = 1435, end = 1534, due_date = 534, lateness = 1000
+  Job 27: start = 1559, end = 1592, due_date = 624, lateness = 968
+  Job 29: start = 1692, end = 1733, due_date = 823, lateness = 910

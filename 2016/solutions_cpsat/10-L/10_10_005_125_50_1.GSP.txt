@@ -1,0 +1,13 @@
+Lmax = 184 (Job 4)
+Solve Time = 0.01s
+Schedule:
+  Job 1: start = 29, end = 35, due_date = 36, lateness = -1
+  Job 2: start = 72, end = 124, due_date = 130, lateness = -6
+  Job 3: start = 124, end = 224, due_date = 203, lateness = 21
+  Job 4: start = 224, end = 311, due_date = 127, lateness = 184
+  Job 7: start = 311, end = 360, due_date = 291, lateness = 69
+  Job 5: start = 360, end = 364, due_date = 370, lateness = -6
+  Job 8: start = 364, end = 386, due_date = 395, lateness = -9
+  Job 6: start = 386, end = 446, due_date = 406, lateness = 40
+  Job 10: start = 446, end = 507, due_date = 411, lateness = 96
+  Job 9: start = 507, end = 509, due_date = 396, lateness = 113

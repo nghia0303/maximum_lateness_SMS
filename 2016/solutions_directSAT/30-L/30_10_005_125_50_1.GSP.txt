@@ -1,0 +1,32 @@
+Lmax = 918 (Jobs 23, 28)
+Schedule:
+  Job 1: start = 147, end = 211, due_date = 89, lateness = 122
+  Job 4: start = 213, end = 275, due_date = 303, lateness = -28
+  Job 9: start = 356, end = 372, due_date = 383, lateness = -11
+  Job 3: start = 378, end = 469, due_date = 483, lateness = -14
+  Job 8: start = 484, end = 564, due_date = 619, lateness = -55
+  Job 5: start = 572, end = 598, due_date = 454, lateness = 144
+  Job 6: start = 613, end = 649, due_date = 680, lateness = -31
+  Job 2: start = 649, end = 687, due_date = 327, lateness = 360
+  Job 7: start = 726, end = 809, due_date = 816, lateness = -7
+  Job 13: start = 809, end = 883, due_date = 940, lateness = -57
+  Job 12: start = 884, end = 934, due_date = 704, lateness = 230
+  Job 17: start = 934, end = 950, due_date = 677, lateness = 273
+  Job 10: start = 950, end = 957, due_date = 950, lateness = 7
+  Job 11: start = 959, end = 1016, due_date = 1019, lateness = -3
+  Job 20: start = 1017, end = 1102, due_date = 875, lateness = 227
+  Job 15: start = 1104, end = 1109, due_date = 1150, lateness = -41
+  Job 22: start = 1113, end = 1159, due_date = 711, lateness = 448
+  Job 18: start = 1160, end = 1232, due_date = 413, lateness = 819
+  Job 16: start = 1234, end = 1245, due_date = 932, lateness = 313
+  Job 14: start = 1245, end = 1304, due_date = 1253, lateness = 51
+  Job 23: start = 1304, end = 1395, due_date = 477, lateness = 918
+  Job 27: start = 1396, end = 1442, due_date = 609, lateness = 833
+  Job 19: start = 1456, end = 1555, due_date = 1600, lateness = -45
+  Job 28: start = 1555, end = 1642, due_date = 724, lateness = 918
+  Job 21: start = 1775, end = 1843, due_date = 1248, lateness = 595
+  Job 24: start = 1861, end = 1879, due_date = 1203, lateness = 676
+  Job 30: start = 1896, end = 1954, due_date = 1077, lateness = 877
+  Job 26: start = 1994, end = 2076, due_date = 1379, lateness = 697
+  Job 29: start = 2152, end = 2195, due_date = 1515, lateness = 680
+  Job 25: start = 2409, end = 2418, due_date = 1576, lateness = 842

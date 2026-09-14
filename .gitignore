@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+gurobi.lic
+*.log
+*.aux
+*.fdb_latexmk
+*.fls
+*.out
+*.synctex.gz

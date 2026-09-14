@@ -1,0 +1,13 @@
+Lmax = 18 (Jobs 8, 9, 10)
+Solve Time = 0.03s
+Schedule:
+  Job 1: start = 1, end = 7, due_date = 26, lateness = -19
+  Job 2: start = 7, end = 13, due_date = 11, lateness = 2
+  Job 3: start = 13, end = 14, due_date = 13, lateness = 1
+  Job 6: start = 14, end = 23, due_date = 25, lateness = -2
+  Job 4: start = 23, end = 24, due_date = 19, lateness = 5
+  Job 5: start = 24, end = 29, due_date = 32, lateness = -3
+  Job 7: start = 29, end = 38, due_date = 31, lateness = 7
+  Job 10: start = 38, end = 42, due_date = 24, lateness = 18
+  Job 8: start = 42, end = 44, due_date = 26, lateness = 18
+  Job 9: start = 44, end = 52, due_date = 34, lateness = 18

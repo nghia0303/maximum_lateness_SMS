@@ -1,0 +1,32 @@
+Lmax = 1208 (Job 23)
+Schedule:
+  Job 1: start = 288, end = 368, due_date = 310, lateness = 58
+  Job 4: start = 375, end = 437, due_date = 495, lateness = -58
+  Job 3: start = 437, end = 489, due_date = 472, lateness = 17
+  Job 2: start = 491, end = 500, due_date = 267, lateness = 233
+  Job 5: start = 500, end = 546, due_date = 513, lateness = 33
+  Job 13: start = 546, end = 600, due_date = 606, lateness = -6
+  Job 7: start = 718, end = 788, due_date = 751, lateness = 37
+  Job 6: start = 813, end = 878, due_date = 915, lateness = -37
+  Job 11: start = 878, end = 976, due_date = 917, lateness = 59
+  Job 9: start = 980, end = 991, due_date = 973, lateness = 18
+  Job 8: start = 991, end = 1034, due_date = 1029, lateness = 5
+  Job 12: start = 1034, end = 1122, due_date = 1172, lateness = -50
+  Job 18: start = 1137, end = 1224, due_date = 1017, lateness = 207
+  Job 22: start = 1224, end = 1295, due_date = 1176, lateness = 119
+  Job 10: start = 1295, end = 1346, due_date = 1128, lateness = 218
+  Job 16: start = 1355, end = 1434, due_date = 1488, lateness = -54
+  Job 20: start = 1435, end = 1504, due_date = 1003, lateness = 501
+  Job 19: start = 1515, end = 1571, due_date = 1415, lateness = 156
+  Job 15: start = 1603, end = 1644, due_date = 1609, lateness = 35
+  Job 14: start = 1652, end = 1702, due_date = 1084, lateness = 618
+  Job 17: start = 1702, end = 1801, due_date = 1884, lateness = -83
+  Job 23: start = 1801, end = 1830, due_date = 622, lateness = 1208
+  Job 21: start = 1911, end = 1969, due_date = 1649, lateness = 320
+  Job 26: start = 1969, end = 2047, due_date = 1704, lateness = 343
+  Job 28: start = 2083, end = 2182, due_date = 1176, lateness = 1006
+  Job 24: start = 2243, end = 2294, due_date = 1144, lateness = 1150
+  Job 27: start = 2312, end = 2327, due_date = 1346, lateness = 981
+  Job 25: start = 2375, end = 2454, due_date = 1762, lateness = 692
+  Job 29: start = 2464, end = 2517, due_date = 1341, lateness = 1176
+  Job 30: start = 2871, end = 2904, due_date = 1706, lateness = 1198

@@ -1,0 +1,33 @@
+Lmax = 88 (Job 29)
+Solve Time = 0.92s
+Schedule:
+  Job 1: start = 0, end = 2, due_date = 2, lateness = 0
+  Job 2: start = 4, end = 9, due_date = 9, lateness = 0
+  Job 3: start = 9, end = 15, due_date = 13, lateness = 2
+  Job 4: start = 15, end = 21, due_date = 19, lateness = 2
+  Job 5: start = 21, end = 25, due_date = 28, lateness = -3
+  Job 6: start = 25, end = 34, due_date = 39, lateness = -5
+  Job 7: start = 34, end = 40, due_date = 45, lateness = -5
+  Job 13: start = 40, end = 45, due_date = 35, lateness = 10
+  Job 8: start = 45, end = 46, due_date = 43, lateness = 3
+  Job 9: start = 46, end = 48, due_date = 46, lateness = 2
+  Job 10: start = 48, end = 57, due_date = 52, lateness = 5
+  Job 11: start = 57, end = 60, due_date = 61, lateness = -1
+  Job 19: start = 60, end = 66, due_date = 12, lateness = 54
+  Job 12: start = 66, end = 74, due_date = 56, lateness = 18
+  Job 16: start = 74, end = 80, due_date = 68, lateness = 12
+  Job 18: start = 80, end = 82, due_date = 68, lateness = 14
+  Job 14: start = 82, end = 89, due_date = 31, lateness = 58
+  Job 27: start = 89, end = 95, due_date = 39, lateness = 56
+  Job 17: start = 95, end = 102, due_date = 75, lateness = 27
+  Job 15: start = 102, end = 105, due_date = 64, lateness = 41
+  Job 21: start = 105, end = 112, due_date = 25, lateness = 87
+  Job 26: start = 112, end = 118, due_date = 41, lateness = 77
+  Job 20: start = 118, end = 127, due_date = 75, lateness = 52
+  Job 28: start = 127, end = 136, due_date = 58, lateness = 78
+  Job 25: start = 136, end = 139, due_date = 54, lateness = 85
+  Job 22: start = 139, end = 140, due_date = 71, lateness = 69
+  Job 23: start = 140, end = 142, due_date = 66, lateness = 76
+  Job 24: start = 142, end = 146, due_date = 79, lateness = 67
+  Job 30: start = 146, end = 149, due_date = 66, lateness = 83
+  Job 29: start = 149, end = 156, due_date = 68, lateness = 88

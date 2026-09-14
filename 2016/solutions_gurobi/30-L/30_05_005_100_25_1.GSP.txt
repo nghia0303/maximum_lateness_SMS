@@ -1,0 +1,33 @@
+Lmax = 760 (Jobs 24, 28, 30)
+Solve Time = 86.64s
+Schedule:
+  Job 1: start = 3, end = 65, due_date = 129, lateness = -64
+  Job 6: start = 65, end = 146, due_date = 150, lateness = -4
+  Job 4: start = 146, end = 176, due_date = 113, lateness = 63
+  Job 7: start = 176, end = 254, due_date = 190, lateness = 64
+  Job 3: start = 254, end = 261, due_date = 104, lateness = 157
+  Job 9: start = 261, end = 327, due_date = 191, lateness = 136
+  Job 10: start = 327, end = 361, due_date = 386, lateness = -25
+  Job 5: start = 361, end = 392, due_date = 181, lateness = 211
+  Job 14: start = 392, end = 482, due_date = 223, lateness = 259
+  Job 15: start = 482, end = 513, due_date = 492, lateness = 21
+  Job 2: start = 513, end = 515, due_date = 82, lateness = 433
+  Job 11: start = 515, end = 599, due_date = 515, lateness = 84
+  Job 17: start = 599, end = 678, due_date = 544, lateness = 134
+  Job 13: start = 678, end = 710, due_date = 562, lateness = 148
+  Job 18: start = 710, end = 727, due_date = 575, lateness = 152
+  Job 12: start = 727, end = 784, due_date = 546, lateness = 238
+  Job 22: start = 784, end = 840, due_date = 90, lateness = 750
+  Job 8: start = 840, end = 856, due_date = 352, lateness = 504
+  Job 20: start = 856, end = 907, due_date = 198, lateness = 709
+  Job 24: start = 907, end = 968, due_date = 208, lateness = 760
+  Job 16: start = 968, end = 977, due_date = 299, lateness = 678
+  Job 21: start = 977, end = 986, due_date = 248, lateness = 738
+  Job 29: start = 986, end = 1060, due_date = 302, lateness = 758
+  Job 27: start = 1060, end = 1147, due_date = 421, lateness = 726
+  Job 25: start = 1147, end = 1154, due_date = 600, lateness = 554
+  Job 23: start = 1155, end = 1221, due_date = 750, lateness = 471
+  Job 30: start = 1221, end = 1236, due_date = 476, lateness = 760
+  Job 19: start = 1238, end = 1257, due_date = 520, lateness = 737
+  Job 26: start = 1262, end = 1347, due_date = 590, lateness = 757
+  Job 28: start = 1347, end = 1384, due_date = 624, lateness = 760

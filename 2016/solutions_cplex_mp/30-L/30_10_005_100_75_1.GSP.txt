@@ -1,0 +1,33 @@
+Lmax = 635 (Job 26)
+Solve Time = 2.89s
+Schedule:
+  Job 1: start = 54, end = 100, due_date = 115, lateness = -15
+  Job 2: start = 100, end = 121, due_date = 175, lateness = -54
+  Job 5: start = 128, end = 201, due_date = 225, lateness = -24
+  Job 3: start = 207, end = 303, due_date = 204, lateness = 99
+  Job 4: start = 304, end = 354, due_date = 296, lateness = 58
+  Job 11: start = 388, end = 452, due_date = 365, lateness = 87
+  Job 7: start = 477, end = 569, due_date = 602, lateness = -33
+  Job 6: start = 569, end = 612, due_date = 511, lateness = 101
+  Job 8: start = 612, end = 619, due_date = 566, lateness = 53
+  Job 9: start = 633, end = 705, due_date = 733, lateness = -28
+  Job 16: start = 706, end = 742, due_date = 679, lateness = 63
+  Job 10: start = 742, end = 750, due_date = 726, lateness = 24
+  Job 12: start = 773, end = 790, due_date = 724, lateness = 66
+  Job 14: start = 791, end = 795, due_date = 787, lateness = 8
+  Job 13: start = 797, end = 809, due_date = 662, lateness = 147
+  Job 18: start = 810, end = 906, due_date = 287, lateness = 619
+  Job 15: start = 926, end = 968, due_date = 589, lateness = 379
+  Job 17: start = 969, end = 984, due_date = 996, lateness = -12
+  Job 21: start = 1009, end = 1099, due_date = 986, lateness = 113
+  Job 19: start = 1099, end = 1111, due_date = 1048, lateness = 63
+  Job 20: start = 1116, end = 1167, due_date = 1228, lateness = -61
+  Job 23: start = 1182, end = 1255, due_date = 995, lateness = 260
+  Job 22: start = 1259, end = 1332, due_date = 1376, lateness = -44
+  Job 26: start = 1332, end = 1423, due_date = 788, lateness = 635
+  Job 25: start = 1423, end = 1466, due_date = 975, lateness = 491
+  Job 27: start = 1467, end = 1514, due_date = 925, lateness = 589
+  Job 24: start = 1515, end = 1611, due_date = 1417, lateness = 194
+  Job 30: start = 1680, end = 1702, due_date = 1290, lateness = 412
+  Job 28: start = 1704, end = 1741, due_date = 1254, lateness = 487
+  Job 29: start = 1877, end = 1883, due_date = 1250, lateness = 633
