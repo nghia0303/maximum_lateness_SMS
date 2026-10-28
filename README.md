@@ -139,6 +139,18 @@ The default lane is `2016/Ins/`. The selected filelists contain 354 instances:
 When `Filenames/{size}-{type}.txt` exists, it is authoritative for that type;
 otherwise the runner falls back to `Filenames/{size}.txt`.
 
+### Unavailable `InsL`, `n=10` instances
+
+The following six benchmark files are specified by the original benchmark
+design but are unavailable in the public data directory:
+
+- `10_10_050_100_25_1.GSP`
+- `10_10_050_100_50_1.GSP`
+- `10_10_050_100_75_1.GSP`
+- `10_10_050_125_25_1.GSP`
+- `10_10_050_125_50_1.GSP`
+- `10_10_050_125_75_1.GSP`
+
 
 The `.GSP` files and their attribution or redistribution terms are separate
 from the MIT license for the original code. See `2016/Ins/README.md` before
@@ -209,18 +221,6 @@ python Test/count_sat_hard_constraints_for_workbook.py
 
 The resulting `2016/results/sat_hard_constraint_stats.xlsx` counts base hard CNF only;
 incremental objective clauses are excluded.
-
-## Status Semantics
-
-- `FINISHED`: an optimal result or a completed SAT optimization run.
-- `UNSAT`: SAT proved that no feasible schedule exists.
-- `INFEASIBLE`: a direct optimization solver proved infeasibility.
-- `TIMEOUT`: the reporting limit was reached; any stored schedule is an incumbent unless separately certified.
-- `TIME_LIMIT_FEASIBLE`: an internal solver returned a feasible incumbent at its time limit; the runner records it as `TIMEOUT`.
-
-The included workbooks are artifacts from recorded runs. Runtime, status, and
-objective comparisons should be made only after checking the validation report
-and the exact solver, machine, timeout, and filelist provenance.
 
 ## License
 

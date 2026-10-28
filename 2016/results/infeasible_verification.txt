@@ -1,0 +1,29 @@
+Infeasible verification: staging code; original .venv site-packages via PYTHONPATH; timeout=30s; runner=Test/run_batch_from_filelist.py --single; no persistent solution files.
+WINDOW 10_05_005_125_50_1.GSP: empty_tightened_windows=[1, 3, 6, 7, 10]; nonempty=False
+RUN 10_05_005_125_50_1.GSP,directSAT,status=UNSAT,lmax=-,elapsed_wall=0.4004,returncode=0
+RUN 10_05_005_125_50_1.GSP,proposedSAT,status=UNSAT,lmax=-,elapsed_wall=0.3922,returncode=0
+RUN 10_05_005_125_50_1.GSP,cplex_mp,status=INFEASIBLE,lmax=-,elapsed_wall=0.4464,returncode=0
+RUN 10_05_005_125_50_1.GSP,gurobi,status=INFEASIBLE,lmax=-,elapsed_wall=0.3963,returncode=0
+RUN 10_05_005_125_50_1.GSP,cplex_cp,status=INFEASIBLE,lmax=-,elapsed_wall=0.4404,returncode=0
+RUN 10_05_005_125_50_1.GSP,cpsat,status=INFEASIBLE,lmax=-,elapsed_wall=0.4242,returncode=0
+WINDOW 10_05_005_125_75_1.GSP: empty_tightened_windows=[1, 3, 4, 5, 6, 7, 8, 9]; nonempty=False
+RUN 10_05_005_125_75_1.GSP,directSAT,status=UNSAT,lmax=-,elapsed_wall=0.3938,returncode=0
+RUN 10_05_005_125_75_1.GSP,proposedSAT,status=UNSAT,lmax=-,elapsed_wall=0.3912,returncode=0
+RUN 10_05_005_125_75_1.GSP,cplex_mp,status=INFEASIBLE,lmax=-,elapsed_wall=0.4591,returncode=0
+RUN 10_05_005_125_75_1.GSP,gurobi,status=INFEASIBLE,lmax=-,elapsed_wall=0.4137,returncode=0
+RUN 10_05_005_125_75_1.GSP,cplex_cp,status=INFEASIBLE,lmax=-,elapsed_wall=0.4411,returncode=0
+RUN 10_05_005_125_75_1.GSP,cpsat,status=INFEASIBLE,lmax=-,elapsed_wall=0.4234,returncode=0
+WINDOW 10_05_025_100_50_1.GSP: empty_tightened_windows=[2, 3, 6, 10]; nonempty=False
+RUN 10_05_025_100_50_1.GSP,directSAT,status=UNSAT,lmax=-,elapsed_wall=0.3878,returncode=0
+RUN 10_05_025_100_50_1.GSP,proposedSAT,status=UNSAT,lmax=-,elapsed_wall=0.3920,returncode=0
+RUN 10_05_025_100_50_1.GSP,cplex_mp,status=INFEASIBLE,lmax=-,elapsed_wall=0.4547,returncode=0
+RUN 10_05_025_100_50_1.GSP,gurobi,status=INFEASIBLE,lmax=-,elapsed_wall=0.3989,returncode=0
+RUN 10_05_025_100_50_1.GSP,cplex_cp,status=INFEASIBLE,lmax=-,elapsed_wall=0.4412,returncode=0
+RUN 10_05_025_100_50_1.GSP,cpsat,status=INFEASIBLE,lmax=-,elapsed_wall=0.4321,returncode=0
+WINDOW 10_10_005_100_25_1.GSP: empty_tightened_windows=[]; nonempty=True
+RUN 10_10_005_100_25_1.GSP,directSAT,status=UNSAT,lmax=-,elapsed_wall=0.4881,returncode=0
+RUN 10_10_005_100_25_1.GSP,proposedSAT,status=UNSAT,lmax=-,elapsed_wall=0.4122,returncode=0
+RUN 10_10_005_100_25_1.GSP,cplex_mp,status=INFEASIBLE,lmax=-,elapsed_wall=0.4950,returncode=0
+RUN 10_10_005_100_25_1.GSP,gurobi,status=INFEASIBLE,lmax=-,elapsed_wall=0.4175,returncode=0
+RUN 10_10_005_100_25_1.GSP,cplex_cp,status=INFEASIBLE,lmax=-,elapsed_wall=0.4532,returncode=0
+RUN 10_10_005_100_25_1.GSP,cpsat,status=INFEASIBLE,lmax=-,elapsed_wall=0.4228,returncode=0
